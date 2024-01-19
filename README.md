@@ -22,3 +22,4 @@
 <h2>Recent Projects</h2>
 <a href="https://github.com/saksham1236/industry-project-st-fork"><img src="https://gh-card.dev/repos/saksham1236/industry-project-st-fork.svg"></a>
 <a href="https://github.com/saksham1236/saksham-tandon-capstone-lws-front-end"><img src="https://gh-card.dev/repos/saksham1236/saksham-tandon-capstone-lws-front-end.svg"></a>
+<a href="https://github.com/saksham1236/brnstn_instock-mp2-frontend"><img src="https://gh-card.dev/repos/saksham1236/brnstn_instock-mp2-frontend.svg"></a>
