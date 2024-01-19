@@ -20,5 +20,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham1236&show_icons=true&locale=en&layout=compact" alt="saksham1236" /></p>
 
 <h2>Recent Projects</h2>
-<a href="https://github.com/MatthewPellettieri/industry-project"><img src="https://gh-card.dev/repos/MatthewPellettieri/industry-project.svg"></a>
+<a href="https://github.com/saksham1236/industry-project-st-fork"><img src="https://gh-card.dev/repos/saksham1236/industry-project-st-fork.svg"></a>
 <a href="https://github.com/saksham1236/saksham-tandon-capstone-lws-front-end"><img src="https://gh-card.dev/repos/saksham1236/saksham-tandon-capstone-lws-front-end.svg"></a>
