@@ -21,5 +21,3 @@
 
 <h2>Recent Projects</h2>
 [![saksham1236/saksham-tandon-capstone-lws-front-end - GitHub](https://gh-card.dev/repos/saksham1236/saksham-tandon-capstone-lws-front-end.svg)](https://github.com/saksham1236/saksham-tandon-capstone-lws-front-end)
-
-
