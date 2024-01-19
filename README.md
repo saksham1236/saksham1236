@@ -20,7 +20,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham1236&show_icons=true&locale=en&layout=compact" alt="saksham1236" /></p>
 
 <h2>Recent Projects</h2>
-| Project |
-|---|
-|[![saksham1236/saksham-tandon-capstone-lws-front-end - GitHub](https://gh-card.dev/repos/saksham1236/saksham-tandon-capstone-lws-front-end.svg)](https://github.com/saksham1236/saksham-tandon-capstone-lws-front-end) |
-|   |
+[![saksham1236/saksham-tandon-capstone-lws-front-end - GitHub](https://gh-card.dev/repos/saksham1236/saksham-tandon-capstone-lws-front-end.svg)](https://github.com/saksham1236/saksham-tandon-capstone-lws-front-end)
+
+
