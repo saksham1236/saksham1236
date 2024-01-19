@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Saksham Tandon</h1>
-<h3 align="center">Versatile designer and aspiring software developer, blending creativity from Motion Design and Scientific Illustration with expertise in User Experience Design to craft innovative and functional digital solutions.</h3>
 
 - 💬 Ask me about **React, Node and Typescript**
 
