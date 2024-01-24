@@ -8,6 +8,8 @@
 
 - ⚡ Fun fact **I like doing Parkour and Latin dancing.**
 
+- 🤓 Currently working towards learning Rust
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/s9tandon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s9tandon" height="30" width="40" /></a>
