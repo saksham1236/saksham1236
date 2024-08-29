@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I like doing Parkour and Latin dancing.**
 
-- 🤓 Currently working towards learning Rust
+- 🤓 Currently working towards learning Rust and Data Science
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
